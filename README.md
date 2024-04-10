@@ -1,1 +1,1 @@
-# -7DaysOfCode
+Estou animada para compartilhar meu desafio #7DaysOfCode, onde buscarei explorar os dados de empréstimos dos acervos do sistema de bibliotecas da UFRN. Este desafio será uma oportunidade para aprimorar minhas habilidades de manipulação, visualização e análise de dados utilizando a biblioteca Pandas do Python.
